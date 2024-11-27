@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **socket.io,react native**
 
-- 👯 I’m looking to collaborate on **Food Delivery Website**
+- 👯 I’m looking to collaborate on **AI-Mock-Interview && Job-portal**
 
-- 💬 Ask me about **Mern stack,Java**
+- 💬 Ask me about **MERN STACK Developer ,Java Programming**
 
 - 📫 How to reach me **ishikajian@gmail.com**
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **I am funny😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
