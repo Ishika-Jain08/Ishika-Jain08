@@ -237,7 +237,7 @@ System Design · Database Design · API Design · Microservices Architecture · 
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/petpass.svg" width="100%" alt="PetPass project preview"/>
+<img src="PetPass Platform Modernization.png" width="100%" alt="PetPass project preview"/>
 
 ### 🐾 PetPass Platform Migration & Modernization
 
@@ -250,7 +250,7 @@ Modernization of a legacy veterinary platform, moving core services from an ASP.
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/dental.svg" width="100%" alt="Dental management project preview"/>
+<img src="Dentist Lite Clinic Management Banner.png" width="100%" alt="Dental management project preview"/>
 
 ### 🦷 Dental & Aligner Management System
 
@@ -265,7 +265,7 @@ Application for patient records, dental and aligner treatments, appointments, pr
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/ai-interview.svg" width="100%" alt="AI interview project preview"/>
+<img src="AI Interview Confidence Platform.png" width="100%" alt="AI interview project preview"/>
 
 ### 🤖 AI Interview Assessment Platform
 
@@ -278,7 +278,7 @@ AI-assisted interview practice platform with voice and camera recording, intervi
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/ecompulse.svg" width="100%" alt="EcomPulse CRM project preview"/>
+<img src="EcomPulse CRM Dashboard Growth Banner.png" width="100%" alt="EcomPulse CRM project preview"/>
 
 ### 📊 Customer Relationship Management — EcomPulse
 
